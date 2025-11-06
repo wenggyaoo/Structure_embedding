@@ -25,7 +25,8 @@ This repository implements and compares structural embedding methods for B-cell 
 
 ### Data
 - `data/` - Contains processed datasets and results
-  - `bcr_specificity_results.csv` - Specificity prediction results
+  - `bcr_airr_dataset.tsv` - Specificity prediction results (too big to upload)
+  - `bcr_airr_complete_dataset.tsv` - Complete dataset with all sequences (too big to upload)
   - `processed_cao_dataset.csv` - Main evaluation dataset
   - Various comparison and analysis files
 
